@@ -2,7 +2,7 @@
 /* Your CSS Code here. */
 .holder{
 	display:flex;
-	justify-contant:space-between;
+	justify-content:space-between;
 	flex-wrap:wrap;
 }
 .item-3{
